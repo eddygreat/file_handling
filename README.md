@@ -41,6 +41,6 @@ By completing this project, you will:
 4. Run the script:
 
 ```bash
-python file_modifier.py
+python file_handling.py
 
 #  Thank you for your time
